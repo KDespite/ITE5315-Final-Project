@@ -252,3 +252,119 @@ Deployment status: Successful
 This project extends the original Product Inventory Explorer by introducing dataset enrichment, additional filtering capabilities, custom middleware, form validation, JavaScript-generated tables, and EJS rendering.
 
 It provides practical experience with Node.js, Express, JSON data handling, and server-side web development.
+
+
+
+# ITE5315 Individual Final Project – Phase 0
+
+## Project Name
+Product Inventory Explorer – Secure REST API
+
+## Project Overview
+This project continues my Assignment 2 Product Inventory Explorer application. The goal is to transform the existing Express application into a persistent and secure REST API using Node.js, Express, MongoDB Atlas, Mongoose and JWT authentication.
+
+The application will allow users to explore products and registered users to save products and manage personal reviews.
+
+## Existing Application
+The Assignment 2 application currently supports:
+- Viewing product records.
+- Searching products by keyword.
+- Filtering by category, currency and tags.
+- Displaying products using JavaScript and EJS tables.
+- Adding product information through a validated form.
+- Express middleware and request logging.
+
+**Existing deployed application:**  
+https://asn2-osei.vercel.app
+
+
+## Dataset Information
+
+**Dataset:** Product catalogue dataset (source under review).
+
+**Target:** 150 product records.
+
+**Selection Criteria:**
+- Readable product names.
+- Unique product identifiers.
+- Brand information.
+- Product categories.
+- Pricing information.
+- Usable product descriptions and other relevant fields.
+
+The project will use 150 selected product records from a suitable product catalogue. The records will be reviewed, cleaned and prepared for MongoDB Atlas using Mongoose.
+
+The planned dataset structure will include product names, brands, categories, pricing, availability, images and other relevant product information where available. Original product identifiers and source information will be preserved where possible.
+
+**Source Attribution:** The final dataset source and applicable reuse licence will be confirmed before database import.
+
+
+## New Business Workflow
+As a registered user, I want to save products to my personal collection and write product reviews so that I can keep track of products I am interested in.
+
+## Proposed MongoDB Collections
+1. **products:** Imported product catalogue and reference data.
+2. **users:** User account information, including email and hashed password.
+3. **savedItems:** Products saved by individual users.
+4. **reviews:** Product reviews and ratings linked to their authors.
+
+User-owned records will contain an `ownerId` reference. Users will only be able to modify their own records.
+
+## Planned API Routes
+
+| Method | Route | Purpose |
+|---|---|---|
+| GET | `/api/products` | List products |
+| GET | `/api/products/:id` | Get one product |
+| POST | `/api/saved-items` | Save a product |
+| GET | `/api/saved-items` | List personal saved products |
+| PUT | `/api/saved-items/:id` | Update saved item |
+| DELETE | `/api/saved-items/:id` | Delete saved item |
+| POST | `/api/reviews` | Create review |
+| GET | `/api/products/:id/reviews` | Get product reviews |
+| PUT | `/api/reviews/:id` | Update review |
+| DELETE | `/api/reviews/:id` | Delete review |
+| POST | `/api/auth/register` | Register user |
+| POST | `/api/auth/login` | Login |
+| GET | `/api/auth/me` | Get authenticated user |
+
+## Planned Filters and Sorting
+- Filter products by category.
+- Filter products by currency.
+- Sort products by price in ascending or descending order.
+- Support pagination.
+
+## Project Milestones
+
+| Phase | Deadline | Planned work |
+|---|---|---|
+| Phase 0 | Nov 22, 2026 | Planning, dataset review, Trello and GitHub |
+| Phase 1 | Nov 25, 2026 | MongoDB Atlas, Mongoose models, GET and persistent POST |
+| Phase 2 | Dec 2, 2026 | Complete CRUD, filtering, sorting and pagination |
+| Phase 3 | Dec 9, 2026 | Registration, login, JWT and ownership authorization |
+| Phase 4 | Dec 16, 2026 | Deployment, documentation, Postman tests and video |
+| Presentation | Dec 17, 2026 | Individual project demonstration |
+
+## Project Management
+**GitHub repository:**  
+https://github.com/KDespite/ITE5315-Final-Project.git
+
+**Trello board:**  
+https://trello.com/b/YQ3raic0/ite5315-final-project-osei
+
+## Technologies
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- JSON Web Tokens (JWT)
+- Postman
+- GitHub
+- Trello
+- Vercel
+
+## AI Use Disclosure
+ChatGPT was used to assist with project planning, organizing the dataset description, proposing database collections, drafting API routes and preparing milestones. The proposed design and documentation will be reviewed and verified by the student.
+
+## Project Status
+Final dataset selection, validation and preparation will be completed before Phase 1 database import.
