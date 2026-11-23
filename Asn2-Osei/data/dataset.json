@@ -1,0 +1,903 @@
+[
+  {
+    "id": 1,
+    "name": "Ultra-Light Mouse",
+    "sku": "SKU-1001",
+    "category": "electronics",
+    "price": 240.67,
+    "currency": "USD",
+    "stock": 23,
+    "rating": 3.2,
+    "tags": [
+      "budget",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Solar Water Bottle",
+    "sku": "SKU-1002",
+    "category": "furniture",
+    "price": 156.57,
+    "currency": "USD",
+    "stock": 141,
+    "rating": 3.8,
+    "tags": [
+      "budget",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Ultra-Light Backpack",
+    "sku": "SKU-1003",
+    "category": "accessories",
+    "price": 168.74,
+    "currency": "USD",
+    "stock": 64,
+    "rating": 3.1,
+    "tags": [
+      "sale",
+      "popular",
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Compact Notebook",
+    "sku": "SKU-1004",
+    "category": "office",
+    "price": 372.73,
+    "currency": "USD",
+    "stock": 189,
+    "rating": 3.7,
+    "tags": [
+      "premium",
+      "bestseller",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Wireless Notebook",
+    "sku": "SKU-1005",
+    "category": "accessories",
+    "price": 145.08,
+    "currency": "USD",
+    "stock": 58,
+    "rating": 3.4,
+    "tags": [
+      "new",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Smart Keyboard",
+    "sku": "SKU-1006",
+    "category": "electronics",
+    "price": 269.4,
+    "currency": "USD",
+    "stock": 141,
+    "rating": 3.2,
+    "tags": [
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Ultra-Light Desk Lamp",
+    "sku": "SKU-1007",
+    "category": "electronics",
+    "price": 434.89,
+    "currency": "USD",
+    "stock": 146,
+    "rating": 3.2,
+    "tags": [
+      "eco",
+      "popular"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 8,
+    "name": "Ergonomic Backpack",
+    "sku": "SKU-1008",
+    "category": "furniture",
+    "price": 96.26,
+    "currency": "USD",
+    "stock": 29,
+    "rating": 4.6,
+    "tags": [
+      "eco",
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Ergonomic Monitor Stand",
+    "sku": "SKU-1009",
+    "category": "office",
+    "price": 290.63,
+    "currency": "USD",
+    "stock": 207,
+    "rating": 3.9,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Heavy-Duty Charger",
+    "sku": "SKU-1010",
+    "category": "outdoor",
+    "price": 63.63,
+    "currency": "USD",
+    "stock": 202,
+    "rating": 4.0,
+    "tags": [
+      "eco",
+      "bestseller",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Solar Headphones",
+    "sku": "SKU-1011",
+    "category": "accessories",
+    "price": 152.19,
+    "currency": "USD",
+    "stock": 145,
+    "rating": 4.1,
+    "tags": [
+      "budget",
+      "new",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Smart Chair",
+    "sku": "SKU-1012",
+    "category": "electronics",
+    "price": 314.63,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 3.1,
+    "tags": [
+      "new",
+      "sale",
+      "bestseller"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "Solar Mouse",
+    "sku": "SKU-1013",
+    "category": "accessories",
+    "price": 207.22,
+    "currency": "USD",
+    "stock": 8,
+    "rating": 3.1,
+    "tags": [
+      "popular",
+      "budget",
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Modular Backpack",
+    "sku": "SKU-1014",
+    "category": "outdoor",
+    "price": 40.23,
+    "currency": "USD",
+    "stock": 169,
+    "rating": 4.5,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Modular Chair",
+    "sku": "SKU-1015",
+    "category": "office",
+    "price": 61.81,
+    "currency": "USD",
+    "stock": 232,
+    "rating": 3.2,
+    "tags": [
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Smart Charger",
+    "sku": "SKU-1016",
+    "category": "outdoor",
+    "price": 34.52,
+    "currency": "USD",
+    "stock": 235,
+    "rating": 3.2,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Heavy-Duty Backpack",
+    "sku": "SKU-1017",
+    "category": "outdoor",
+    "price": 345.9,
+    "currency": "USD",
+    "stock": 138,
+    "rating": 3.7,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Heavy-Duty Whiteboard",
+    "sku": "SKU-1018",
+    "category": "accessories",
+    "price": 24.73,
+    "currency": "USD",
+    "stock": 154,
+    "rating": 3.1,
+    "tags": [
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 19,
+    "name": "Solar Charger",
+    "sku": "SKU-1019",
+    "category": "electronics",
+    "price": 481.15,
+    "currency": "USD",
+    "stock": 195,
+    "rating": 4.2,
+    "tags": [
+      "premium",
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Compact Mouse",
+    "sku": "SKU-1020",
+    "category": "outdoor",
+    "price": 382.74,
+    "currency": "USD",
+    "stock": 166,
+    "rating": 3.6,
+    "tags": [
+      "sale",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 21,
+    "name": "Ultra-Light Desk Lamp",
+    "sku": "SKU-1021",
+    "category": "furniture",
+    "price": 220.76,
+    "currency": "USD",
+    "stock": 89,
+    "rating": 3.5,
+    "tags": [
+      "budget",
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 22,
+    "name": "Portable Headphones",
+    "sku": "SKU-1022",
+    "category": "furniture",
+    "price": 429.58,
+    "currency": "USD",
+    "stock": 73,
+    "rating": 4.2,
+    "tags": [
+      "bestseller",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 23,
+    "name": "Wireless Water Bottle",
+    "sku": "SKU-1023",
+    "category": "accessories",
+    "price": 23.17,
+    "currency": "USD",
+    "stock": 82,
+    "rating": 2.8,
+    "tags": [
+      "bestseller",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 24,
+    "name": "Ergonomic Chair",
+    "sku": "SKU-1024",
+    "category": "outdoor",
+    "price": 413.34,
+    "currency": "USD",
+    "stock": 118,
+    "rating": 3.5,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 25,
+    "name": "Ultra-Light Chair",
+    "sku": "SKU-1025",
+    "category": "furniture",
+    "price": 184.08,
+    "currency": "USD",
+    "stock": 194,
+    "rating": 2.6,
+    "tags": [
+      "premium",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Ultra-Light Whiteboard",
+    "sku": "SKU-1026",
+    "category": "furniture",
+    "price": 464.2,
+    "currency": "USD",
+    "stock": 31,
+    "rating": 2.6,
+    "tags": [
+      "premium",
+      "sale",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 27,
+    "name": "Ergonomic Webcam",
+    "sku": "SKU-1027",
+    "category": "furniture",
+    "price": 158.82,
+    "currency": "USD",
+    "stock": 23,
+    "rating": 3.1,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "name": "Compact Mouse",
+    "sku": "SKU-1028",
+    "category": "accessories",
+    "price": 473.8,
+    "currency": "USD",
+    "stock": 130,
+    "rating": 4.3,
+    "tags": [
+      "bestseller",
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Modular Mouse",
+    "sku": "SKU-1029",
+    "category": "outdoor",
+    "price": 490.22,
+    "currency": "USD",
+    "stock": 37,
+    "rating": 3.5,
+    "tags": [
+      "premium",
+      "budget",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Smart Headphones",
+    "sku": "SKU-1030",
+    "category": "accessories",
+    "price": 432.69,
+    "currency": "USD",
+    "stock": 239,
+    "rating": 4.5,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "name": "Smart Charger",
+    "sku": "SKU-1031",
+    "category": "outdoor",
+    "price": 145.01,
+    "currency": "USD",
+    "stock": 168,
+    "rating": 3.7,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 32,
+    "name": "Portable Water Bottle",
+    "sku": "SKU-1032",
+    "category": "outdoor",
+    "price": 271.6,
+    "currency": "USD",
+    "stock": 195,
+    "rating": 3.9,
+    "tags": [
+      "popular",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Modular Charger",
+    "sku": "SKU-1033",
+    "category": "furniture",
+    "price": 490.48,
+    "currency": "USD",
+    "stock": 59,
+    "rating": 4.6,
+    "tags": [
+      "new",
+      "popular"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "name": "Heavy-Duty Headphones",
+    "sku": "SKU-1034",
+    "category": "office",
+    "price": 373.63,
+    "currency": "USD",
+    "stock": 126,
+    "rating": 4.9,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Portable Desk Lamp",
+    "sku": "SKU-1035",
+    "category": "furniture",
+    "price": 482.85,
+    "currency": "USD",
+    "stock": 25,
+    "rating": 3.8,
+    "tags": [
+      "new",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 36,
+    "name": "Compact Desk Lamp",
+    "sku": "SKU-1036",
+    "category": "furniture",
+    "price": 76.36,
+    "currency": "USD",
+    "stock": 200,
+    "rating": 4.9,
+    "tags": [
+      "premium",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 37,
+    "name": "Wireless Water Bottle",
+    "sku": "SKU-1037",
+    "category": "outdoor",
+    "price": 201.75,
+    "currency": "USD",
+    "stock": 97,
+    "rating": 4.9,
+    "tags": [
+      "budget",
+      "eco",
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "name": "Wireless Notebook",
+    "sku": "SKU-1038",
+    "category": "accessories",
+    "price": 22.77,
+    "currency": "USD",
+    "stock": 58,
+    "rating": 4.4,
+    "tags": [
+      "new",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 39,
+    "name": "Wireless Mouse",
+    "sku": "SKU-1039",
+    "category": "office",
+    "price": 353.43,
+    "currency": "USD",
+    "stock": 177,
+    "rating": 3.2,
+    "tags": [
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "name": "Ergonomic Backpack",
+    "sku": "SKU-1040",
+    "category": "accessories",
+    "price": 165.57,
+    "currency": "USD",
+    "stock": 95,
+    "rating": 3.6,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 41,
+    "name": "Compact Monitor Stand",
+    "sku": "SKU-1041",
+    "category": "office",
+    "price": 208.97,
+    "currency": "USD",
+    "stock": 20,
+    "rating": 4.0,
+    "tags": [
+      "premium",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "name": "Solar Monitor Stand",
+    "sku": "SKU-1042",
+    "category": "office",
+    "price": 124.21,
+    "currency": "USD",
+    "stock": 118,
+    "rating": 4.1,
+    "tags": [
+      "popular",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 43,
+    "name": "Ultra-Light Backpack",
+    "sku": "SKU-1043",
+    "category": "outdoor",
+    "price": 9.65,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 2.7,
+    "tags": [
+      "premium",
+      "popular"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 44,
+    "name": "Heavy-Duty Whiteboard",
+    "sku": "SKU-1044",
+    "category": "accessories",
+    "price": 321.27,
+    "currency": "USD",
+    "stock": 116,
+    "rating": 4.6,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 45,
+    "name": "Wireless Notebook",
+    "sku": "SKU-1045",
+    "category": "furniture",
+    "price": 427.4,
+    "currency": "USD",
+    "stock": 146,
+    "rating": 3.4,
+    "tags": [
+      "budget",
+      "popular"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "name": "Heavy-Duty Backpack",
+    "sku": "SKU-1046",
+    "category": "electronics",
+    "price": 15.86,
+    "currency": "USD",
+    "stock": 144,
+    "rating": 4.7,
+    "tags": [
+      "new",
+      "premium",
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 47,
+    "name": "Smart Notebook",
+    "sku": "SKU-1047",
+    "category": "outdoor",
+    "price": 417.26,
+    "currency": "USD",
+    "stock": 205,
+    "rating": 3.4,
+    "tags": [
+      "sale",
+      "premium",
+      "popular"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "name": "Compact Chair",
+    "sku": "SKU-1048",
+    "category": "electronics",
+    "price": 340.49,
+    "currency": "USD",
+    "stock": 231,
+    "rating": 4.1,
+    "tags": [
+      "popular"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 49,
+    "name": "Ergonomic Charger",
+    "sku": "SKU-1049",
+    "category": "accessories",
+    "price": 395.36,
+    "currency": "USD",
+    "stock": 187,
+    "rating": 2.8,
+    "tags": [
+      "popular",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 50,
+    "name": "Modular Monitor Stand",
+    "sku": "SKU-1050",
+    "category": "outdoor",
+    "price": 210.67,
+    "currency": "USD",
+    "stock": 224,
+    "rating": 4.9,
+    "tags": [
+      "premium",
+      "popular",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 51,
+    "name": "Ultra-Light Backpack",
+    "sku": "SKU-1051",
+    "category": "accessories",
+    "price": 132.2,
+    "currency": "USD",
+    "stock": 205,
+    "rating": 2.8,
+    "tags": [
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 52,
+    "name": "Modular Chair",
+    "sku": "SKU-1052",
+    "category": "furniture",
+    "price": 378.3,
+    "currency": "USD",
+    "stock": 247,
+    "rating": 4.6,
+    "tags": [
+      "popular",
+      "new",
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 53,
+    "name": "Foldable Desk Lamp",
+    "sku": "SKU-1053",
+    "category": "furniture",
+    "price": 11.89,
+    "currency": "USD",
+    "stock": 94,
+    "rating": 4.2,
+    "tags": [
+      "popular",
+      "premium",
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "name": "Portable Desk Lamp",
+    "sku": "SKU-1054",
+    "category": "office",
+    "price": 412.1,
+    "currency": "USD",
+    "stock": 120,
+    "rating": 2.6,
+    "tags": [
+      "popular",
+      "premium",
+      "sale"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 55,
+    "name": "Ultra-Light Whiteboard",
+    "sku": "SKU-1055",
+    "category": "accessories",
+    "price": 325.59,
+    "currency": "USD",
+    "stock": 166,
+    "rating": 3.5,
+    "tags": [
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 56,
+    "name": "Smart Mouse",
+    "sku": "SKU-1056",
+    "category": "electronics",
+    "price": 473.4,
+    "currency": "USD",
+    "stock": 24,
+    "rating": 3.1,
+    "tags": [
+      "sale",
+      "eco",
+      "budget"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 57,
+    "name": "Foldable Headphones",
+    "sku": "SKU-1057",
+    "category": "outdoor",
+    "price": 188.65,
+    "currency": "USD",
+    "stock": 190,
+    "rating": 4.3,
+    "tags": [
+      "budget",
+      "new"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 58,
+    "name": "Solar Headphones",
+    "sku": "SKU-1058",
+    "category": "accessories",
+    "price": 417.68,
+    "currency": "USD",
+    "stock": 8,
+    "rating": 4.2,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 59,
+    "name": "Modular Water Bottle",
+    "sku": "SKU-1059",
+    "category": "electronics",
+    "price": 225.12,
+    "currency": "USD",
+    "stock": 175,
+    "rating": 3.4,
+    "tags": [
+      "popular",
+      "new",
+      "eco"
+    ],
+    "inStock": true
+  },
+  {
+    "id": 60,
+    "name": "Wireless Mouse",
+    "sku": "SKU-1060",
+    "category": "electronics",
+    "price": 141.56,
+    "currency": "USD",
+    "stock": 169,
+    "rating": 3.0,
+    "tags": [
+      "premium",
+      "new",
+      "budget"
+    ],
+    "inStock": true
+  }
+]

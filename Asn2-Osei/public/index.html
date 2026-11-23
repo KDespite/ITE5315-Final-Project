@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Inventory Explorer</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+
+    <h1>Product Inventory Explorer</h1>
+
+    <p><strong>Name:</strong> Thompson Osei</p>
+    <p><strong>Student ID:</strong> N01714324</p>
+    <p><strong>Dataset:</strong> Products</p>
+
+    <hr>
+
+    <h2>Search Products</h2>
+
+    <form action="/search" method="GET">
+        <label>Product name:</label>
+        <input type="text" name="keyword" required>
+        <button type="submit">Search</button>
+    </form>
+
+    <hr>
+
+    <h2>Filter Products</h2>
+
+    <form action="/filter" method="GET">
+        <label>Category:</label>
+        <input type="text" name="category" placeholder="electronics" required>
+        <button type="submit">Filter</button>
+    </form>
+
+    <hr>
+
+    <h2>Available Routes</h2>
+
+    <ul>
+        <li><a href="/data">View all products</a></li>
+        <li><a href="/about">About this app</a></li>
+        <li><a href="/random">Random product</a></li>
+    </ul>
+
+    <p>
+        Example:
+        <a href="/data/1">View product ID 1</a>
+    </p>
+
+</body>
+</html>

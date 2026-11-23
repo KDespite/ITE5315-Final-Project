@@ -1,0 +1,13 @@
+{
+  "name": "asn1-osei",
+  "version": "1.0.0",
+  "description": "ITE5315 Assignment 1 - Product Inventory Explorer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.1.0"
+  }
+}

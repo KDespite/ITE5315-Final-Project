@@ -1,0 +1,1383 @@
+[
+  {
+    "id": 1,
+    "name": "Ultra-Light Mouse",
+    "sku": "SKU-1001",
+    "category": "electronics",
+    "price": 240.67,
+    "currency": "USD",
+    "stock": 23,
+    "rating": 3.2,
+    "tags": [
+      "budget",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/1-ultra-light-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 240.67,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Solar Water Bottle",
+    "sku": "SKU-1002",
+    "category": "furniture",
+    "price": 156.57,
+    "currency": "USD",
+    "stock": 141,
+    "rating": 3.8,
+    "tags": [
+      "budget",
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/2-solar-water-bottle/600/400",
+    "imageAlt": "Illustrative placeholder for Solar Water Bottle",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 156.57,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ultra-Light Backpack",
+    "sku": "SKU-1003",
+    "category": "accessories",
+    "price": 168.74,
+    "currency": "USD",
+    "stock": 64,
+    "rating": 3.1,
+    "tags": [
+      "sale",
+      "popular",
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/3-ultra-light-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 168.74,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Compact Notebook",
+    "sku": "SKU-1004",
+    "category": "office",
+    "price": 372.73,
+    "currency": "USD",
+    "stock": 189,
+    "rating": 3.7,
+    "tags": [
+      "premium",
+      "bestseller",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/4-compact-notebook/600/400",
+    "imageAlt": "Illustrative placeholder for Compact Notebook",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 372.73,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Wireless Notebook",
+    "sku": "SKU-1005",
+    "category": "accessories",
+    "price": 145.08,
+    "currency": "USD",
+    "stock": 58,
+    "rating": 3.4,
+    "tags": [
+      "new",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/5-wireless-notebook/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Notebook",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 145.08,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Smart Keyboard",
+    "sku": "SKU-1006",
+    "category": "electronics",
+    "price": 269.4,
+    "currency": "USD",
+    "stock": 141,
+    "rating": 3.2,
+    "tags": [
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/6-smart-keyboard/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Keyboard",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 269.4,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Ultra-Light Desk Lamp",
+    "sku": "SKU-1007",
+    "category": "electronics",
+    "price": 434.89,
+    "currency": "USD",
+    "stock": 146,
+    "rating": 3.2,
+    "tags": [
+      "eco",
+      "popular"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/7-ultra-light-desk-lamp/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Desk Lamp",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 434.89,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ergonomic Backpack",
+    "sku": "SKU-1008",
+    "category": "furniture",
+    "price": 96.26,
+    "currency": "USD",
+    "stock": 29,
+    "rating": 4.6,
+    "tags": [
+      "eco",
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/8-ergonomic-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Ergonomic Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 96.26,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ergonomic Monitor Stand",
+    "sku": "SKU-1009",
+    "category": "office",
+    "price": 290.63,
+    "currency": "USD",
+    "stock": 207,
+    "rating": 3.9,
+    "tags": [
+      "new",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/9-ergonomic-monitor-stand/600/400",
+    "imageAlt": "Illustrative placeholder for Ergonomic Monitor Stand",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 290.63,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Heavy-Duty Charger",
+    "sku": "SKU-1010",
+    "category": "outdoor",
+    "price": 63.63,
+    "currency": "USD",
+    "stock": 202,
+    "rating": 4,
+    "tags": [
+      "eco",
+      "bestseller",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/10-heavy-duty-charger/600/400",
+    "imageAlt": "Illustrative placeholder for Heavy-Duty Charger",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 63.63,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Solar Headphones",
+    "sku": "SKU-1011",
+    "category": "accessories",
+    "price": 152.19,
+    "currency": "USD",
+    "stock": 145,
+    "rating": 4.1,
+    "tags": [
+      "budget",
+      "new",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/11-solar-headphones/600/400",
+    "imageAlt": "Illustrative placeholder for Solar Headphones",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 152.19,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Smart Chair",
+    "sku": "SKU-1012",
+    "category": "electronics",
+    "price": 314.63,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 3.1,
+    "tags": [
+      "new",
+      "sale",
+      "bestseller"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/12-smart-chair/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Chair",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 314.63,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Solar Mouse",
+    "sku": "SKU-1013",
+    "category": "accessories",
+    "price": 207.22,
+    "currency": "USD",
+    "stock": 8,
+    "rating": 3.1,
+    "tags": [
+      "popular",
+      "budget",
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/13-solar-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Solar Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 207.22,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Modular Backpack",
+    "sku": "SKU-1014",
+    "category": "outdoor",
+    "price": 40.23,
+    "currency": "USD",
+    "stock": 169,
+    "rating": 4.5,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/14-modular-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 40.23,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Modular Chair",
+    "sku": "SKU-1015",
+    "category": "office",
+    "price": 61.81,
+    "currency": "USD",
+    "stock": 232,
+    "rating": 3.2,
+    "tags": [
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/15-modular-chair/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Chair",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 61.81,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Smart Charger",
+    "sku": "SKU-1016",
+    "category": "outdoor",
+    "price": 34.52,
+    "currency": "USD",
+    "stock": 235,
+    "rating": 3.2,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/16-smart-charger/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Charger",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 34.52,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Heavy-Duty Backpack",
+    "sku": "SKU-1017",
+    "category": "outdoor",
+    "price": 345.9,
+    "currency": "USD",
+    "stock": 138,
+    "rating": 3.7,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/17-heavy-duty-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Heavy-Duty Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 345.9,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Heavy-Duty Whiteboard",
+    "sku": "SKU-1018",
+    "category": "accessories",
+    "price": 24.73,
+    "currency": "USD",
+    "stock": 154,
+    "rating": 3.1,
+    "tags": [
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/18-heavy-duty-whiteboard/600/400",
+    "imageAlt": "Illustrative placeholder for Heavy-Duty Whiteboard",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 24.73,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Solar Charger",
+    "sku": "SKU-1019",
+    "category": "electronics",
+    "price": 481.15,
+    "currency": "USD",
+    "stock": 195,
+    "rating": 4.2,
+    "tags": [
+      "premium",
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/19-solar-charger/600/400",
+    "imageAlt": "Illustrative placeholder for Solar Charger",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 481.15,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Compact Mouse",
+    "sku": "SKU-1020",
+    "category": "outdoor",
+    "price": 382.74,
+    "currency": "USD",
+    "stock": 166,
+    "rating": 3.6,
+    "tags": [
+      "sale",
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/20-compact-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Compact Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 382.74,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Ultra-Light Desk Lamp",
+    "sku": "SKU-1021",
+    "category": "furniture",
+    "price": 220.76,
+    "currency": "USD",
+    "stock": 89,
+    "rating": 3.5,
+    "tags": [
+      "budget",
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/21-ultra-light-desk-lamp/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Desk Lamp",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 220.76,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Portable Headphones",
+    "sku": "SKU-1022",
+    "category": "furniture",
+    "price": 429.58,
+    "currency": "USD",
+    "stock": 73,
+    "rating": 4.2,
+    "tags": [
+      "bestseller",
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/22-portable-headphones/600/400",
+    "imageAlt": "Illustrative placeholder for Portable Headphones",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 429.58,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Wireless Water Bottle",
+    "sku": "SKU-1023",
+    "category": "accessories",
+    "price": 23.17,
+    "currency": "USD",
+    "stock": 82,
+    "rating": 2.8,
+    "tags": [
+      "bestseller",
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/23-wireless-water-bottle/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Water Bottle",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 23.17,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Ergonomic Chair",
+    "sku": "SKU-1024",
+    "category": "outdoor",
+    "price": 413.34,
+    "currency": "USD",
+    "stock": 118,
+    "rating": 3.5,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/24-ergonomic-chair/600/400",
+    "imageAlt": "Illustrative placeholder for Ergonomic Chair",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 413.34,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Ultra-Light Chair",
+    "sku": "SKU-1025",
+    "category": "furniture",
+    "price": 184.08,
+    "currency": "USD",
+    "stock": 194,
+    "rating": 2.6,
+    "tags": [
+      "premium",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/25-ultra-light-chair/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Chair",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 184.08,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Ultra-Light Whiteboard",
+    "sku": "SKU-1026",
+    "category": "furniture",
+    "price": 464.2,
+    "currency": "USD",
+    "stock": 31,
+    "rating": 2.6,
+    "tags": [
+      "premium",
+      "sale",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/26-ultra-light-whiteboard/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Whiteboard",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 464.2,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Ergonomic Webcam",
+    "sku": "SKU-1027",
+    "category": "furniture",
+    "price": 158.82,
+    "currency": "USD",
+    "stock": 23,
+    "rating": 3.1,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/27-ergonomic-webcam/600/400",
+    "imageAlt": "Illustrative placeholder for Ergonomic Webcam",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 158.82,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Compact Mouse",
+    "sku": "SKU-1028",
+    "category": "accessories",
+    "price": 473.8,
+    "currency": "USD",
+    "stock": 130,
+    "rating": 4.3,
+    "tags": [
+      "bestseller",
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/28-compact-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Compact Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 473.8,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Modular Mouse",
+    "sku": "SKU-1029",
+    "category": "outdoor",
+    "price": 490.22,
+    "currency": "USD",
+    "stock": 37,
+    "rating": 3.5,
+    "tags": [
+      "premium",
+      "budget",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/29-modular-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 490.22,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Smart Headphones",
+    "sku": "SKU-1030",
+    "category": "accessories",
+    "price": 432.69,
+    "currency": "USD",
+    "stock": 239,
+    "rating": 4.5,
+    "tags": [
+      "bestseller",
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/30-smart-headphones/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Headphones",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 432.69,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Smart Charger",
+    "sku": "SKU-1031",
+    "category": "outdoor",
+    "price": 145.01,
+    "currency": "USD",
+    "stock": 168,
+    "rating": 3.7,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/31-smart-charger/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Charger",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 145.01,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Portable Water Bottle",
+    "sku": "SKU-1032",
+    "category": "outdoor",
+    "price": 271.6,
+    "currency": "USD",
+    "stock": 195,
+    "rating": 3.9,
+    "tags": [
+      "popular",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/32-portable-water-bottle/600/400",
+    "imageAlt": "Illustrative placeholder for Portable Water Bottle",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 271.6,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Modular Charger",
+    "sku": "SKU-1033",
+    "category": "furniture",
+    "price": 490.48,
+    "currency": "USD",
+    "stock": 59,
+    "rating": 4.6,
+    "tags": [
+      "new",
+      "popular"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/33-modular-charger/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Charger",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 490.48,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Heavy-Duty Headphones",
+    "sku": "SKU-1034",
+    "category": "office",
+    "price": 373.63,
+    "currency": "USD",
+    "stock": 126,
+    "rating": 4.9,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/34-heavy-duty-headphones/600/400",
+    "imageAlt": "Illustrative placeholder for Heavy-Duty Headphones",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 373.63,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Portable Desk Lamp",
+    "sku": "SKU-1035",
+    "category": "furniture",
+    "price": 482.85,
+    "currency": "USD",
+    "stock": 25,
+    "rating": 3.8,
+    "tags": [
+      "new",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/35-portable-desk-lamp/600/400",
+    "imageAlt": "Illustrative placeholder for Portable Desk Lamp",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 482.85,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Compact Desk Lamp",
+    "sku": "SKU-1036",
+    "category": "furniture",
+    "price": 76.36,
+    "currency": "USD",
+    "stock": 200,
+    "rating": 4.9,
+    "tags": [
+      "premium",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/36-compact-desk-lamp/600/400",
+    "imageAlt": "Illustrative placeholder for Compact Desk Lamp",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 76.36,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Wireless Water Bottle",
+    "sku": "SKU-1037",
+    "category": "outdoor",
+    "price": 201.75,
+    "currency": "USD",
+    "stock": 97,
+    "rating": 4.9,
+    "tags": [
+      "budget",
+      "eco",
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/37-wireless-water-bottle/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Water Bottle",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 201.75,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Wireless Notebook",
+    "sku": "SKU-1038",
+    "category": "accessories",
+    "price": 22.77,
+    "currency": "USD",
+    "stock": 58,
+    "rating": 4.4,
+    "tags": [
+      "new",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/38-wireless-notebook/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Notebook",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 22.77,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Wireless Mouse",
+    "sku": "SKU-1039",
+    "category": "office",
+    "price": 353.43,
+    "currency": "USD",
+    "stock": 177,
+    "rating": 3.2,
+    "tags": [
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/39-wireless-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 353.43,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Ergonomic Backpack",
+    "sku": "SKU-1040",
+    "category": "accessories",
+    "price": 165.57,
+    "currency": "USD",
+    "stock": 95,
+    "rating": 3.6,
+    "tags": [
+      "premium"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/40-ergonomic-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Ergonomic Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 165.57,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Compact Monitor Stand",
+    "sku": "SKU-1041",
+    "category": "office",
+    "price": 208.97,
+    "currency": "USD",
+    "stock": 20,
+    "rating": 4,
+    "tags": [
+      "premium",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/41-compact-monitor-stand/600/400",
+    "imageAlt": "Illustrative placeholder for Compact Monitor Stand",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 208.97,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Solar Monitor Stand",
+    "sku": "SKU-1042",
+    "category": "office",
+    "price": 124.21,
+    "currency": "USD",
+    "stock": 118,
+    "rating": 4.1,
+    "tags": [
+      "popular",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/42-solar-monitor-stand/600/400",
+    "imageAlt": "Illustrative placeholder for Solar Monitor Stand",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 124.21,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Ultra-Light Backpack",
+    "sku": "SKU-1043",
+    "category": "outdoor",
+    "price": 9.65,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 2.7,
+    "tags": [
+      "premium",
+      "popular"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/43-ultra-light-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 9.65,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Heavy-Duty Whiteboard",
+    "sku": "SKU-1044",
+    "category": "accessories",
+    "price": 321.27,
+    "currency": "USD",
+    "stock": 116,
+    "rating": 4.6,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/44-heavy-duty-whiteboard/600/400",
+    "imageAlt": "Illustrative placeholder for Heavy-Duty Whiteboard",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 321.27,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Wireless Notebook",
+    "sku": "SKU-1045",
+    "category": "furniture",
+    "price": 427.4,
+    "currency": "USD",
+    "stock": 146,
+    "rating": 3.4,
+    "tags": [
+      "budget",
+      "popular"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/45-wireless-notebook/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Notebook",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 427.4,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Heavy-Duty Backpack",
+    "sku": "SKU-1046",
+    "category": "electronics",
+    "price": 15.86,
+    "currency": "USD",
+    "stock": 144,
+    "rating": 4.7,
+    "tags": [
+      "new",
+      "premium",
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/46-heavy-duty-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Heavy-Duty Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 15.86,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Smart Notebook",
+    "sku": "SKU-1047",
+    "category": "outdoor",
+    "price": 417.26,
+    "currency": "USD",
+    "stock": 205,
+    "rating": 3.4,
+    "tags": [
+      "sale",
+      "premium",
+      "popular"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/47-smart-notebook/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Notebook",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 417.26,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Compact Chair",
+    "sku": "SKU-1048",
+    "category": "electronics",
+    "price": 340.49,
+    "currency": "USD",
+    "stock": 231,
+    "rating": 4.1,
+    "tags": [
+      "popular"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/48-compact-chair/600/400",
+    "imageAlt": "Illustrative placeholder for Compact Chair",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 340.49,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Ergonomic Charger",
+    "sku": "SKU-1049",
+    "category": "accessories",
+    "price": 395.36,
+    "currency": "USD",
+    "stock": 187,
+    "rating": 2.8,
+    "tags": [
+      "popular",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/49-ergonomic-charger/600/400",
+    "imageAlt": "Illustrative placeholder for Ergonomic Charger",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 395.36,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Modular Monitor Stand",
+    "sku": "SKU-1050",
+    "category": "outdoor",
+    "price": 210.67,
+    "currency": "USD",
+    "stock": 224,
+    "rating": 4.9,
+    "tags": [
+      "premium",
+      "popular",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/50-modular-monitor-stand/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Monitor Stand",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 210.67,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Ultra-Light Backpack",
+    "sku": "SKU-1051",
+    "category": "accessories",
+    "price": 132.2,
+    "currency": "USD",
+    "stock": 205,
+    "rating": 2.8,
+    "tags": [
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/51-ultra-light-backpack/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Backpack",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 132.2,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Modular Chair",
+    "sku": "SKU-1052",
+    "category": "furniture",
+    "price": 378.3,
+    "currency": "USD",
+    "stock": 247,
+    "rating": 4.6,
+    "tags": [
+      "popular",
+      "new",
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/52-modular-chair/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Chair",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 378.3,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Foldable Desk Lamp",
+    "sku": "SKU-1053",
+    "category": "furniture",
+    "price": 11.89,
+    "currency": "USD",
+    "stock": 94,
+    "rating": 4.2,
+    "tags": [
+      "popular",
+      "premium",
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/53-foldable-desk-lamp/600/400",
+    "imageAlt": "Illustrative placeholder for Foldable Desk Lamp",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 11.89,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Portable Desk Lamp",
+    "sku": "SKU-1054",
+    "category": "office",
+    "price": 412.1,
+    "currency": "USD",
+    "stock": 120,
+    "rating": 2.6,
+    "tags": [
+      "popular",
+      "premium",
+      "sale"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/54-portable-desk-lamp/600/400",
+    "imageAlt": "Illustrative placeholder for Portable Desk Lamp",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 412.1,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Ultra-Light Whiteboard",
+    "sku": "SKU-1055",
+    "category": "accessories",
+    "price": 325.59,
+    "currency": "USD",
+    "stock": 166,
+    "rating": 3.5,
+    "tags": [
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/55-ultra-light-whiteboard/600/400",
+    "imageAlt": "Illustrative placeholder for Ultra-Light Whiteboard",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 325.59,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Smart Mouse",
+    "sku": "SKU-1056",
+    "category": "electronics",
+    "price": 473.4,
+    "currency": "USD",
+    "stock": 24,
+    "rating": 3.1,
+    "tags": [
+      "sale",
+      "eco",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/56-smart-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Smart Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 473.4,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Foldable Headphones",
+    "sku": "SKU-1057",
+    "category": "outdoor",
+    "price": 188.65,
+    "currency": "USD",
+    "stock": 190,
+    "rating": 4.3,
+    "tags": [
+      "budget",
+      "new"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/57-foldable-headphones/600/400",
+    "imageAlt": "Illustrative placeholder for Foldable Headphones",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 188.65,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Solar Headphones",
+    "sku": "SKU-1058",
+    "category": "accessories",
+    "price": 417.68,
+    "currency": "USD",
+    "stock": 8,
+    "rating": 4.2,
+    "tags": [
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/58-solar-headphones/600/400",
+    "imageAlt": "Illustrative placeholder for Solar Headphones",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 417.68,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Modular Water Bottle",
+    "sku": "SKU-1059",
+    "category": "electronics",
+    "price": 225.12,
+    "currency": "USD",
+    "stock": 175,
+    "rating": 3.4,
+    "tags": [
+      "popular",
+      "new",
+      "eco"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/59-modular-water-bottle/600/400",
+    "imageAlt": "Illustrative placeholder for Modular Water Bottle",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 225.12,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Wireless Mouse",
+    "sku": "SKU-1060",
+    "category": "electronics",
+    "price": 141.56,
+    "currency": "USD",
+    "stock": 169,
+    "rating": 3,
+    "tags": [
+      "premium",
+      "new",
+      "budget"
+    ],
+    "inStock": true,
+    "imageUrl": "https://picsum.photos/seed/60-wireless-mouse/600/400",
+    "imageAlt": "Illustrative placeholder for Wireless Mouse",
+    "imageSource": "Lorem Picsum – placeholder, not record-specific",
+    "imageCreditUrl": "https://picsum.photos/",
+    "pricing": {
+      "amount": 141.56,
+      "currency": "USD"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title><%= pageTitle %></title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+    <h1><%= pageTitle %></h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th>Currency</th>
+                <th>Rating</th>
+                <th>Tags</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <% records.forEach((record) => { %>
+                <tr>
+                    <td><%= record.id %></td>
+                    <td><%= record.name %></td>
+                    <td><%= record.category %></td>
+                    <td><%= record.pricing.amount %></td>
+                    <td><%= record.pricing.currency %></td>
+                    <td><%= record.rating %></td>
+                    <td><%= record.tags.join(", ") %></td>
+                    <td>
+                        <img src="<%= record.imageUrl %>"
+                             alt="<%= record.imageAlt %>"
+                             width="80">
+                    </td>
+                </tr>
+            <% }) %>
+        </tbody>
+    </table>
+
+</body>
+</html>
