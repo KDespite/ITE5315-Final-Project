@@ -13,9 +13,10 @@
  * Student ID: N01714324
  * Date: November 2026
  ******************************************************************************/
-
+const Product = require("./models/Product");
 const express = require("express");
 const path = require("path");
+const connectDB = require("./config/db");
 
 const app = express();
 const port = 5500;
@@ -28,6 +29,7 @@ app.use((req, res, next) => {
 
 // Parse form data
 app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
 // Configure EJS
 app.set("view engine", "ejs");
@@ -207,6 +209,42 @@ app.post("/add", (req, res) => {
     `);
 });
 
+// GET all products from MongoDB Atlas
+app.get("/api/products", async (req, res) => {
+    try {
+        const products = await Product.find();
+
+        res.status(200).json({
+            count: products.length,
+            products: products
+        });
+
+    } catch (error) {
+        res.status(500).json({
+            message: "Error retrieving products",
+            error: error.message
+        });
+    }
+});
+
+// POST a new product to MongoDB Atlas
+app.post("/api/products", async (req, res) => {
+    try {
+        const newProduct = await Product.create(req.body);
+
+        res.status(201).json({
+            message: "Product created successfully",
+            product: newProduct
+        });
+
+    } catch (error) {
+        res.status(400).json({
+            message: "Unable to create product",
+            error: error.message
+        });
+    }
+});
+
 
 // 404 handler
 app.use((req, res) => {
@@ -215,7 +253,9 @@ app.use((req, res) => {
     });
 });
 
-// Start server
-app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
+// Connect to MongoDB Atlas before starting the server
+connectDB().then(() => {
+    app.listen(port, () => {
+        console.log(`Server running at http://localhost:${port}`);
+    });
 });

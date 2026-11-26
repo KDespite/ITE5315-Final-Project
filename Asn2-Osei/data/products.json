@@ -1,0 +1,1352 @@
+[
+  {
+    "productId":10002,
+    "name":"INFLATABLE POLITICAL GLOBE",
+    "averagePrice":1.09,
+    "totalQuantitySold":860,
+    "transactionCount":71,
+    "country":"France",
+    "currency":"GBP"
+  },
+  {
+    "productId":10080,
+    "name":"GROOVY CACTUS INFLATABLE",
+    "averagePrice":0.41,
+    "totalQuantitySold":303,
+    "transactionCount":22,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":10120,
+    "name":"DOGGY RUBBER",
+    "averagePrice":0.21,
+    "totalQuantitySold":193,
+    "transactionCount":30,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":10125,
+    "name":"MINI FUNKY DESIGN TAPES",
+    "averagePrice":0.86,
+    "totalQuantitySold":1296,
+    "transactionCount":94,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":10133,
+    "name":"COLOURING PENCILS BROWN TUBE",
+    "averagePrice":0.65,
+    "totalQuantitySold":2867,
+    "transactionCount":198,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":10135,
+    "name":"COLOURING PENCILS BROWN TUBE",
+    "averagePrice":1.41,
+    "totalQuantitySold":2231,
+    "transactionCount":179,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":11001,
+    "name":"ASSTD DESIGN RACING CAR PEN",
+    "averagePrice":1.89,
+    "totalQuantitySold":1615,
+    "transactionCount":115,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":15030,
+    "name":"FAN BLACK FRAME",
+    "averagePrice":0.29,
+    "totalQuantitySold":143,
+    "transactionCount":13,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":15034,
+    "name":"PAPER POCKET TRAVELING FAN",
+    "averagePrice":0.37,
+    "totalQuantitySold":6591,
+    "transactionCount":138,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":15036,
+    "name":"ASSORTED COLOURS SILK FAN",
+    "averagePrice":1.07,
+    "totalQuantitySold":23826,
+    "transactionCount":519,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":15039,
+    "name":"SANDALWOOD FAN",
+    "averagePrice":1.24,
+    "totalQuantitySold":2091,
+    "transactionCount":146,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16008,
+    "name":"SMALL FOLDING SCISSOR(POINTED EDGE)",
+    "averagePrice":0.14,
+    "totalQuantitySold":2892,
+    "transactionCount":70,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16010,
+    "name":"FOLDING CAMPING SCISSOR W\/KNIF & S",
+    "averagePrice":0.12,
+    "totalQuantitySold":30,
+    "transactionCount":3,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16011,
+    "name":"ANIMAL STICKERS",
+    "averagePrice":0.21,
+    "totalQuantitySold":1773,
+    "transactionCount":47,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16012,
+    "name":"FOOD\/DRINK SPONGE STICKERS",
+    "averagePrice":0.21,
+    "totalQuantitySold":1244,
+    "transactionCount":37,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16014,
+    "name":"SMALL CHINESE STYLE SCISSOR",
+    "averagePrice":0.4,
+    "totalQuantitySold":13328,
+    "transactionCount":54,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16015,
+    "name":"MEDIUM CHINESE STYLE SCISSOR",
+    "averagePrice":0.49,
+    "totalQuantitySold":662,
+    "transactionCount":24,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16016,
+    "name":"LARGE CHINESE STYLE SCISSOR",
+    "averagePrice":0.85,
+    "totalQuantitySold":1273,
+    "transactionCount":65,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16033,
+    "name":"MINI HIGHLIGHTER PENS",
+    "averagePrice":0.12,
+    "totalQuantitySold":840,
+    "transactionCount":4,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16043,
+    "name":"POP ART PUSH DOWN RUBBER",
+    "averagePrice":0.12,
+    "totalQuantitySold":98,
+    "transactionCount":2,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16045,
+    "name":"POPART WOODEN PENCILS ASST",
+    "averagePrice":0.04,
+    "totalQuantitySold":8900,
+    "transactionCount":69,
+    "country":"Belgium",
+    "currency":"GBP"
+  },
+  {
+    "productId":16046,
+    "name":"TEATIME PEN CASE & PENS",
+    "averagePrice":0.85,
+    "totalQuantitySold":68,
+    "transactionCount":17,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16048,
+    "name":"TEATIME ROUND PENCIL SHARPENER",
+    "averagePrice":0.33,
+    "totalQuantitySold":1461,
+    "transactionCount":69,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16049,
+    "name":"TEATIME GEL PENS ASST",
+    "averagePrice":0.24,
+    "totalQuantitySold":504,
+    "transactionCount":5,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16052,
+    "name":"TEATIME PUSH DOWN RUBBER",
+    "averagePrice":0.59,
+    "totalQuantitySold":479,
+    "transactionCount":13,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16054,
+    "name":"POPART RECT PENCIL SHARPENER ASST",
+    "averagePrice":0.13,
+    "totalQuantitySold":1166,
+    "transactionCount":33,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16216,
+    "name":"LETTER SHAPE PENCIL SHARPENER",
+    "averagePrice":0.15,
+    "totalQuantitySold":3333,
+    "transactionCount":45,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16218,
+    "name":"CARTOON  PENCIL SHARPENERS",
+    "averagePrice":0.27,
+    "totalQuantitySold":3821,
+    "transactionCount":64,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16219,
+    "name":"HOUSE SHAPE PENCIL SHARPENER",
+    "averagePrice":0.52,
+    "totalQuantitySold":3048,
+    "transactionCount":100,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16225,
+    "name":"RATTLE SNAKE EGGS",
+    "averagePrice":1.46,
+    "totalQuantitySold":815,
+    "transactionCount":104,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16235,
+    "name":"RECYCLED PENCIL WITH RABBIT ERASER",
+    "averagePrice":0.32,
+    "totalQuantitySold":3104,
+    "transactionCount":169,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16236,
+    "name":"KITTY PENCIL ERASERS",
+    "averagePrice":0.3,
+    "totalQuantitySold":1438,
+    "transactionCount":136,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16237,
+    "name":"SLEEPING CAT ERASERS",
+    "averagePrice":0.3,
+    "totalQuantitySold":4994,
+    "transactionCount":297,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16238,
+    "name":"PARTY TIME PENCIL ERASERS",
+    "averagePrice":0.31,
+    "totalQuantitySold":1398,
+    "transactionCount":136,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16254,
+    "name":"TRANSPARENT ACRYLIC TAPE DISPENSER",
+    "averagePrice":1.31,
+    "totalQuantitySold":40,
+    "transactionCount":17,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":16259,
+    "name":"PIECE OF CAMO STATIONERY SET",
+    "averagePrice":0.1,
+    "totalQuantitySold":3380,
+    "transactionCount":31,
+    "country":"EIRE",
+    "currency":"GBP"
+  },
+  {
+    "productId":17001,
+    "name":"HEAVENS SCENT FRAGRANCE OILS ASSTD",
+    "averagePrice":0.29,
+    "totalQuantitySold":72,
+    "transactionCount":1,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":17003,
+    "name":"BROCADE RING PURSE",
+    "averagePrice":0.36,
+    "totalQuantitySold":23056,
+    "transactionCount":242,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":17021,
+    "name":"NAMASTE SWAGAT INCENSE",
+    "averagePrice":0.29,
+    "totalQuantitySold":2427,
+    "transactionCount":57,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":17038,
+    "name":"PORCELAIN BUDAH INCENSE HOLDER",
+    "averagePrice":0.42,
+    "totalQuantitySold":1525,
+    "transactionCount":34,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":17096,
+    "name":"ASSORTED LAQUERED INCENSE HOLDERS",
+    "averagePrice":0.3,
+    "totalQuantitySold":2545,
+    "transactionCount":24,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":17174,
+    "name":"ASSTD RASTA KEY-CHAINS",
+    "averagePrice":0.42,
+    "totalQuantitySold":9,
+    "transactionCount":3,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":18007,
+    "name":"ESSENTIAL BALM 3.5g TIN IN ENVELOPE",
+    "averagePrice":0.27,
+    "totalQuantitySold":5884,
+    "transactionCount":31,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20615,
+    "name":"BLUE POLKADOT PASSPORT COVER",
+    "averagePrice":2.56,
+    "totalQuantitySold":309,
+    "transactionCount":95,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20616,
+    "name":"CHERRY BLOSSOM PASSPORT COVER",
+    "averagePrice":1.81,
+    "totalQuantitySold":194,
+    "transactionCount":71,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20617,
+    "name":"FIRST CLASS PASSPORT COVER",
+    "averagePrice":2.25,
+    "totalQuantitySold":93,
+    "transactionCount":43,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20618,
+    "name":"QUEEN OF THE SKIES PASSPORT COVER",
+    "averagePrice":2.03,
+    "totalQuantitySold":148,
+    "transactionCount":76,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20619,
+    "name":"TROPICAL PASSPORT COVER",
+    "averagePrice":2.14,
+    "totalQuantitySold":262,
+    "transactionCount":99,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20622,
+    "name":"VIPPASSPORT COVER",
+    "averagePrice":2.4,
+    "totalQuantitySold":186,
+    "transactionCount":52,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20652,
+    "name":"BLUE POLKADOT LUGGAGE TAG",
+    "averagePrice":1.56,
+    "totalQuantitySold":268,
+    "transactionCount":81,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20653,
+    "name":"CHERRY BLOSSOM LUGGAGE TAG",
+    "averagePrice":1.48,
+    "totalQuantitySold":73,
+    "transactionCount":33,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20654,
+    "name":"FIRST CLASS LUGGAGE TAG",
+    "averagePrice":1.38,
+    "totalQuantitySold":152,
+    "transactionCount":50,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20655,
+    "name":"QUEEN OF SKIES LUGGAGE TAG",
+    "averagePrice":1.72,
+    "totalQuantitySold":197,
+    "transactionCount":99,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20657,
+    "name":"TROPICAL LUGGAGE TAG",
+    "averagePrice":1.72,
+    "totalQuantitySold":73,
+    "transactionCount":33,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20658,
+    "name":"RED RETROSPOT LUGGAGE TAG",
+    "averagePrice":1.75,
+    "totalQuantitySold":434,
+    "transactionCount":108,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20659,
+    "name":"ECONOMY LUGGAGE TAG",
+    "averagePrice":1.63,
+    "totalQuantitySold":159,
+    "transactionCount":65,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20661,
+    "name":"BLUE POLKADOT PURSE",
+    "averagePrice":3.4,
+    "totalQuantitySold":44,
+    "transactionCount":33,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20662,
+    "name":"FIRST CLASS HOLIDAY PURSE",
+    "averagePrice":2.88,
+    "totalQuantitySold":31,
+    "transactionCount":20,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20663,
+    "name":"QUEEN OF THE SKIES HOLIDAY PURSE",
+    "averagePrice":2.69,
+    "totalQuantitySold":25,
+    "transactionCount":20,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20664,
+    "name":"TROPICAL HOLIDAY PURSE",
+    "averagePrice":2.54,
+    "totalQuantitySold":32,
+    "transactionCount":18,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20665,
+    "name":"RED RETROSPOT PURSE",
+    "averagePrice":4.07,
+    "totalQuantitySold":461,
+    "transactionCount":156,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20666,
+    "name":"ECONOMY HOLIDAY PURSE",
+    "averagePrice":1.71,
+    "totalQuantitySold":30,
+    "transactionCount":17,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20667,
+    "name":"CHERRY BLOSSOM PURSE",
+    "averagePrice":2.49,
+    "totalQuantitySold":20,
+    "transactionCount":16,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20668,
+    "name":"DISCO BALL CHRISTMAS DECORATION",
+    "averagePrice":0.16,
+    "totalQuantitySold":12979,
+    "transactionCount":222,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20669,
+    "name":"RED HEART LUGGAGE TAG",
+    "averagePrice":1.69,
+    "totalQuantitySold":304,
+    "transactionCount":101,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20670,
+    "name":"VIP HOLIDAY PURSE",
+    "averagePrice":3.24,
+    "totalQuantitySold":14,
+    "transactionCount":11,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20671,
+    "name":"BLUE TEATIME PRINT BOWL",
+    "averagePrice":1.25,
+    "totalQuantitySold":10,
+    "transactionCount":2,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20674,
+    "name":"GREEN POLKADOT BOWL",
+    "averagePrice":1.56,
+    "totalQuantitySold":1576,
+    "transactionCount":208,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20675,
+    "name":"BLUE POLKADOT BOWL",
+    "averagePrice":1.59,
+    "totalQuantitySold":3121,
+    "transactionCount":325,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20676,
+    "name":"RED RETROSPOT BOWL",
+    "averagePrice":1.63,
+    "totalQuantitySold":5076,
+    "transactionCount":456,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20677,
+    "name":"PINK POLKADOT BOWL",
+    "averagePrice":1.65,
+    "totalQuantitySold":3676,
+    "transactionCount":339,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20678,
+    "name":"LARGE BLACK DIAMANTE HAIRSLIDE",
+    "averagePrice":1.65,
+    "totalQuantitySold":4,
+    "transactionCount":1,
+    "country":"EIRE",
+    "currency":"GBP"
+  },
+  {
+    "productId":20679,
+    "name":"EDWARDIAN PARASOL RED",
+    "averagePrice":7.0,
+    "totalQuantitySold":1710,
+    "transactionCount":327,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20681,
+    "name":"PINK POLKADOT CHILDRENS UMBRELLA",
+    "averagePrice":4.21,
+    "totalQuantitySold":140,
+    "transactionCount":47,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20682,
+    "name":"RED RETROSPOT CHILDRENS UMBRELLA",
+    "averagePrice":4.02,
+    "totalQuantitySold":1241,
+    "transactionCount":239,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20684,
+    "name":"STRAWBERRY DREAM CHILDS UMBRELLA",
+    "averagePrice":3.54,
+    "totalQuantitySold":81,
+    "transactionCount":36,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20685,
+    "name":"DOORMAT RED RETROSPOT",
+    "averagePrice":8.95,
+    "totalQuantitySold":4092,
+    "transactionCount":699,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20686,
+    "name":"DOLLY MIXTURE CHILDREN'S UMBRELLA",
+    "averagePrice":3.86,
+    "totalQuantitySold":270,
+    "transactionCount":78,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20694,
+    "name":"FLORAL PINK MONSTER",
+    "averagePrice":5.08,
+    "totalQuantitySold":43,
+    "transactionCount":17,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20695,
+    "name":"FLORAL BLUE MONSTER",
+    "averagePrice":4.25,
+    "totalQuantitySold":5,
+    "transactionCount":4,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20696,
+    "name":"FLORAL SOFT CAR TOY",
+    "averagePrice":4.72,
+    "totalQuantitySold":54,
+    "transactionCount":30,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20697,
+    "name":"LITTLE GREEN MONSTER SOFT TOY",
+    "averagePrice":2.55,
+    "totalQuantitySold":21,
+    "transactionCount":13,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20698,
+    "name":"LITTLE PINK MONSTER SOFT TOY",
+    "averagePrice":2.55,
+    "totalQuantitySold":17,
+    "transactionCount":9,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20699,
+    "name":"MOUSEY LONG LEGS SOFT TOY",
+    "averagePrice":3.0,
+    "totalQuantitySold":97,
+    "transactionCount":41,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20700,
+    "name":"GREEN CAT FLORAL CUSHION COVER",
+    "averagePrice":4.98,
+    "totalQuantitySold":73,
+    "transactionCount":54,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20701,
+    "name":"PINK CAT FLORAL CUSHION COVER",
+    "averagePrice":4.07,
+    "totalQuantitySold":25,
+    "transactionCount":18,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20702,
+    "name":"PINK PADDED MOBILE",
+    "averagePrice":4.34,
+    "totalQuantitySold":135,
+    "transactionCount":43,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20703,
+    "name":"BLUE PADDED SOFT MOBILE",
+    "averagePrice":4.25,
+    "totalQuantitySold":1,
+    "transactionCount":1,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20704,
+    "name":"MR ROBOT SOFT TOY",
+    "averagePrice":5.85,
+    "totalQuantitySold":216,
+    "transactionCount":44,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20705,
+    "name":"MRS ROBOT SOFT TOY",
+    "averagePrice":4.81,
+    "totalQuantitySold":143,
+    "transactionCount":28,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20707,
+    "name":"CRAZY DAISY HEART DECORATION",
+    "averagePrice":1.09,
+    "totalQuantitySold":464,
+    "transactionCount":149,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20711,
+    "name":"JUMBO BAG TOYS",
+    "averagePrice":3.13,
+    "totalQuantitySold":5007,
+    "transactionCount":524,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20712,
+    "name":"JUMBO BAG WOODLAND ANIMALS",
+    "averagePrice":2.93,
+    "totalQuantitySold":9773,
+    "transactionCount":869,
+    "country":"Germany",
+    "currency":"GBP"
+  },
+  {
+    "productId":20713,
+    "name":"JUMBO BAG OWLS",
+    "averagePrice":2.77,
+    "totalQuantitySold":11444,
+    "transactionCount":667,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20716,
+    "name":"PARTY FOOD SHOPPER BAG",
+    "averagePrice":1.32,
+    "totalQuantitySold":400,
+    "transactionCount":74,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20717,
+    "name":"STRAWBERRY SHOPPER BAG",
+    "averagePrice":1.67,
+    "totalQuantitySold":2857,
+    "transactionCount":418,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20718,
+    "name":"RED RETROSPOT SHOPPER BAG",
+    "averagePrice":1.78,
+    "totalQuantitySold":4776,
+    "transactionCount":581,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20719,
+    "name":"WOODLAND CHARLOTTE BAG",
+    "averagePrice":1.21,
+    "totalQuantitySold":13308,
+    "transactionCount":848,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20723,
+    "name":"STRAWBERRY CHARLOTTE BAG",
+    "averagePrice":1.2,
+    "totalQuantitySold":9798,
+    "transactionCount":730,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20724,
+    "name":"RED RETROSPOT CHARLOTTE BAG",
+    "averagePrice":1.15,
+    "totalQuantitySold":17765,
+    "transactionCount":1047,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20725,
+    "name":"LUNCH BAG RED RETROSPOT",
+    "averagePrice":2.13,
+    "totalQuantitySold":19553,
+    "transactionCount":1595,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20726,
+    "name":"LUNCH BAG WOODLAND",
+    "averagePrice":2.18,
+    "totalQuantitySold":9933,
+    "transactionCount":1041,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20727,
+    "name":"LUNCH BAG  BLACK SKULL.",
+    "averagePrice":2.1,
+    "totalQuantitySold":12240,
+    "transactionCount":1328,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20728,
+    "name":"LUNCH BAG CARS BLUE",
+    "averagePrice":2.06,
+    "totalQuantitySold":11817,
+    "transactionCount":1174,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20731,
+    "name":"POSY CANDY BAG",
+    "averagePrice":1.09,
+    "totalQuantitySold":92,
+    "transactionCount":16,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20733,
+    "name":"GOLD MINI TAPE MEASURE",
+    "averagePrice":0.85,
+    "totalQuantitySold":1236,
+    "transactionCount":208,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20734,
+    "name":"SILVER MINI TAPE MEASURE",
+    "averagePrice":1.8,
+    "totalQuantitySold":158,
+    "transactionCount":27,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20735,
+    "name":"BLACK MINI TAPE MEASURE",
+    "averagePrice":1.12,
+    "totalQuantitySold":623,
+    "transactionCount":112,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20748,
+    "name":"KENSINGTON COFFEE SET",
+    "averagePrice":13.47,
+    "totalQuantitySold":57,
+    "transactionCount":34,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20749,
+    "name":"ASSORTED COLOUR MINI CASES",
+    "averagePrice":8.06,
+    "totalQuantitySold":1770,
+    "transactionCount":388,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20750,
+    "name":"RED RETROSPOT MINI CASES",
+    "averagePrice":8.12,
+    "totalQuantitySold":1748,
+    "transactionCount":387,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20751,
+    "name":"FUNKY WASHING UP GLOVES ASSORTED",
+    "averagePrice":2.34,
+    "totalQuantitySold":1003,
+    "transactionCount":224,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20752,
+    "name":"BLUE POLKADOT WASHING UP GLOVES",
+    "averagePrice":2.41,
+    "totalQuantitySold":414,
+    "transactionCount":150,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20754,
+    "name":"RETROSPOT RED WASHING UP GLOVES",
+    "averagePrice":2.51,
+    "totalQuantitySold":1458,
+    "transactionCount":308,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20755,
+    "name":"BLUE PAISLEY POCKET BOOK",
+    "averagePrice":0.99,
+    "totalQuantitySold":307,
+    "transactionCount":63,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20756,
+    "name":"GREEN FERN POCKET BOOK",
+    "averagePrice":0.85,
+    "totalQuantitySold":63,
+    "transactionCount":22,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20757,
+    "name":"RED DAISY POCKET BOOK",
+    "averagePrice":0.91,
+    "totalQuantitySold":167,
+    "transactionCount":36,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20758,
+    "name":"ABSTRACT CIRCLES POCKET BOOK",
+    "averagePrice":0.85,
+    "totalQuantitySold":162,
+    "transactionCount":45,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20759,
+    "name":"CHRYSANTHEMUM POCKET BOOK",
+    "averagePrice":0.85,
+    "totalQuantitySold":64,
+    "transactionCount":20,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20760,
+    "name":"GARDEN PATH POCKET BOOK",
+    "averagePrice":0.85,
+    "totalQuantitySold":69,
+    "transactionCount":22,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20761,
+    "name":"BLUE PAISLEY SKETCHBOOK",
+    "averagePrice":4.43,
+    "totalQuantitySold":123,
+    "transactionCount":66,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20762,
+    "name":"GREEN FERN SKETCHBOOK",
+    "averagePrice":4.15,
+    "totalQuantitySold":106,
+    "transactionCount":56,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20763,
+    "name":"DAISY SKETCHBOOK",
+    "averagePrice":3.98,
+    "totalQuantitySold":73,
+    "transactionCount":27,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20764,
+    "name":"ABSTRACT CIRCLES SKETCHBOOK",
+    "averagePrice":4.66,
+    "totalQuantitySold":144,
+    "transactionCount":78,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20765,
+    "name":"CHRYSANTHEMUM SKETCHBOOK",
+    "averagePrice":4.24,
+    "totalQuantitySold":104,
+    "transactionCount":61,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20766,
+    "name":"GARDEN PATH SKETCHBOOK",
+    "averagePrice":4.43,
+    "totalQuantitySold":124,
+    "transactionCount":60,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20767,
+    "name":"BLUE PAISLEY JOURNAL",
+    "averagePrice":2.86,
+    "totalQuantitySold":253,
+    "transactionCount":82,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20768,
+    "name":"GREEN FERN JOURNAL",
+    "averagePrice":2.65,
+    "totalQuantitySold":177,
+    "transactionCount":56,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20769,
+    "name":"DAISY JOURNAL",
+    "averagePrice":2.75,
+    "totalQuantitySold":80,
+    "transactionCount":34,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20770,
+    "name":"ABSTRACT CIRCLE JOURNAL",
+    "averagePrice":2.5,
+    "totalQuantitySold":185,
+    "transactionCount":73,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20771,
+    "name":"CHRYSANTHEMUM  JOURNAL",
+    "averagePrice":2.76,
+    "totalQuantitySold":103,
+    "transactionCount":41,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20772,
+    "name":"GARDEN PATH JOURNAL",
+    "averagePrice":2.75,
+    "totalQuantitySold":247,
+    "transactionCount":65,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20773,
+    "name":"BLUE PAISLEY NOTEBOOK",
+    "averagePrice":1.65,
+    "totalQuantitySold":56,
+    "transactionCount":24,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20774,
+    "name":"GREEN FERN NOTEBOOK",
+    "averagePrice":1.64,
+    "totalQuantitySold":86,
+    "transactionCount":45,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20775,
+    "name":"DAISY NOTEBOOK",
+    "averagePrice":1.72,
+    "totalQuantitySold":135,
+    "transactionCount":65,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20777,
+    "name":"CHRYSANTHEMUM NOTEBOOK",
+    "averagePrice":1.7,
+    "totalQuantitySold":169,
+    "transactionCount":80,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20778,
+    "name":"GARDEN PATH NOTEBOOK",
+    "averagePrice":1.65,
+    "totalQuantitySold":15,
+    "transactionCount":8,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20780,
+    "name":"BLACK EAR MUFF HEADPHONES",
+    "averagePrice":7.62,
+    "totalQuantitySold":48,
+    "transactionCount":30,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20781,
+    "name":"GOLD EAR MUFF HEADPHONES",
+    "averagePrice":5.76,
+    "totalQuantitySold":38,
+    "transactionCount":28,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20782,
+    "name":"CAMOUFLAGE EAR MUFF HEADPHONES",
+    "averagePrice":7.46,
+    "totalQuantitySold":54,
+    "transactionCount":28,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20785,
+    "name":"FUSCHIA RETRO BAR STOOL",
+    "averagePrice":39.15,
+    "totalQuantitySold":14,
+    "transactionCount":5,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20793,
+    "name":"BLUE TILED TRAY",
+    "averagePrice":6.75,
+    "totalQuantitySold":8,
+    "transactionCount":4,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20794,
+    "name":"BLUE  TILE HOOK",
+    "averagePrice":3.57,
+    "totalQuantitySold":99,
+    "transactionCount":28,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20795,
+    "name":"LARGE BLUE PROVENCAL CERAMIC BALL",
+    "averagePrice":2.65,
+    "totalQuantitySold":49,
+    "transactionCount":11,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20796,
+    "name":"SMALL BLUE PROVENCAL CERAMIC BALL",
+    "averagePrice":1.83,
+    "totalQuantitySold":62,
+    "transactionCount":9,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20798,
+    "name":"CLEAR MILKSHAKE GLASS",
+    "averagePrice":2.1,
+    "totalQuantitySold":36,
+    "transactionCount":5,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20801,
+    "name":"LARGE PINK GLASS SUNDAE DISH",
+    "averagePrice":1.61,
+    "totalQuantitySold":1013,
+    "transactionCount":82,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20802,
+    "name":"SMALL GLASS SUNDAE DISH CLEAR",
+    "averagePrice":1.94,
+    "totalQuantitySold":739,
+    "transactionCount":63,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20803,
+    "name":"SMALL PINK GLASS SUNDAE DISH",
+    "averagePrice":1.13,
+    "totalQuantitySold":945,
+    "transactionCount":41,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  },
+  {
+    "productId":20816,
+    "name":"GOLD FLOWER CUSHION COVER",
+    "averagePrice":1.95,
+    "totalQuantitySold":8,
+    "transactionCount":2,
+    "country":"United Kingdom",
+    "currency":"GBP"
+  }
+]
